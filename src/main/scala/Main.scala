@@ -8,8 +8,8 @@ object Main extends App {
 
   val fortuneBot = new FortuneBot
   val timer = new Timer
-  val timeHigh =  10800000
-  val timeLow =    1800000
+  val timeHigh =  20800000
+  val timeLow =    2800000
 
 //  val timeHigh =  72000
 //  val timeLow = 18000
